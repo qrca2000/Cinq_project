@@ -154,4 +154,10 @@
     margin-top: 20px;
     width: 250px;
   }
+  /* HomePage Content*/
+  h1 {
+    background-color: #ff9292 !important;
+    border-color: 3px solid #ff9292;
+  }
+
 }
