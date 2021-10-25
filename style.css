@@ -157,7 +157,8 @@
   /* HomePage Content*/
   h1 {
     background-color: #ff9292 !important;
-    border-color: 3px solid #ff9292;
+    margin-left: 25%;
+    border: 3px solid #ff9292;
   }
 
 }
